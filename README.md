@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alyonaVet
-- 👀 I’m interested in studying program languages
+- 👀 I’m interested in studying programming languages
 - 🌱 I’m currently learning JavaScript
 
 
